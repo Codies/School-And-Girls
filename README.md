@@ -1,3 +1,7 @@
-# School-And-Girls
+# School-&-Girls
 
-This repository is where all informationabout School and Girls group will be stored 
+**Propósito**
+
+**Planeación**
+
+**Dinámica esperada**
