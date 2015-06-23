@@ -46,7 +46,7 @@ Para ambos casos, se definieron encuestas con el propósito de tener informació
 
 Dinámica esperada
 ---------------------
-Se han definido metas a corto, mediano y largo plazo. La primer tarea (corto plazo) a trabajar es el tema de charlas (y posteriormente talleres) en colegios enfocados a niñas de grados décimo y once. A mediano plazo entonces está continuar y reforzar el tema de colegios, poder llegar a niñas de grandos inferiores (sexto a noveno) y comenzar una planeación más específica en el tema de universidades, para finalmente y a largo plazo poder establecer los grupos en varias de ellas.
+Se han definido metas a corto, mediano y largo plazo. La primer tarea (corto plazo) a trabajar es el tema de charlas (y posteriormente talleres) en colegios enfocados a niñas de grados décimo y once. A mediano plazo entonces está continuar y reforzar el tema de colegios, poder llegar a niñas de grados inferiores (sexto a noveno) y comenzar una planeación más específica en el tema de universidades, para finalmente y a largo plazo poder establecer los grupos en varias de ellas.
 
 El tema de documentación será manejado en *GitHub* y la definición de tareas la haremos por medio de *Issues*.
 
