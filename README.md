@@ -31,7 +31,7 @@ Se han definido los siguientes frentes de trabajo:
 >
 >4. Taller
 >
->Actualmente contamos con entrada al Colegio Nuestra Señora de la Paz y del éxito que tengamos en éste contamos con entrada a uno más, la persona de contacto de Codies para este colegio es Alejandra Prieto (karen@codies.org) y el contacto en el colegio es la profesora Marisol Aguilar. Adicionalmente estamos pendientes de confirmar colegios por parte del Politécnico, el contacto en Codies para este caso es Diosa Torres (diosa@codies.org).
+>Actualmente contamos con entrada al Colegio Nuestra Señora de la Paz y del éxito que tengamos en éste contamos con entrada a uno más, la persona de contacto de Codies para este colegio es [Alejandra Prieto](karen@codies.org) y el contacto en el colegio es la profesora Marisol Aguilar. Adicionalmente estamos pendientes de confirmar colegios por parte del Politécnico, el contacto en Codies para este caso es [Diosa Torres](diosa@codies.org).
 >
 
 >
@@ -40,7 +40,7 @@ Se han definido los siguientes frentes de trabajo:
 > Crear grupos de Codies en las universidades cuyo fin principal es incentivar a las chicas a continuar y terminar su carrera. Adicionalmente crear grupos de estudio que brinden apoyo en áreas conocimiento específicas a través de mentoras(es). Para este punto es fundamental comenzar a visualizar líderes en las diferentes universidades quienes estarían a cargo dentro de cada institución.
 >
 
-Para ambos casos, se definieron encuestas con el propósito de tener información inicial sobre las estudiantes con las que vamos a trabajar, en este ítem la responsable es Paola Zárate (*Agregar correo de Codies de Paola*). A continuación el link de las encuestas:
+Para ambos casos, se definieron encuestas con el propósito de tener información inicial sobre las estudiantes con las que vamos a trabajar, en este ítem la responsable es [Paola Zárate](paolazaratem@gmail.com). A continuación el link de las encuestas:
 
 + [Estudiantes de colegio](https://docs.google.com/forms/d/1ichrzUju3sAyuyNT4oqHhNxXv4YFPmvjgKij0CFEodM/viewform)
 + [Estudiantes de universidad](https://docs.google.com/forms/d/1u2aK5GITsRYgV67ocbwU89Njl3u1i5t-KQGnhRCEW9w/viewform)
