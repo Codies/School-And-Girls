@@ -37,7 +37,7 @@ Se han definido los siguientes frentes de trabajo:
 >
 > **2. Universidades**
 >
-> Crear grupos de Codies en las universidades cuyo fin principal es incentivar a las chicas a continuar y terminar su carrera. Adicionalmente crear grupos de estudio que brinden apoyo en áreas conocimiento específicos a través de mentoras(es). Para este punto es fundamental comenzar a visualizar líderes en las diferentes universidades quienes estarían a cargo dentro de cada institución.
+> Crear grupos de Codies en las universidades cuyo fin principal es incentivar a las chicas a continuar y terminar su carrera. Adicionalmente crear grupos de estudio que brinden apoyo en áreas conocimiento específicas a través de mentoras(es). Para este punto es fundamental comenzar a visualizar líderes en las diferentes universidades quienes estarían a cargo dentro de cada institución.
 >
 
 Para ambos casos, se definieron encuestas con el propósito de tener información inicial sobre las estudiantes con las que vamos a trabajar, en este ítem la responsable es Paola Zárate (*Agregar correo de Codies de Paola*). A continuación el link de las encuestas:
